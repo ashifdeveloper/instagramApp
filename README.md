@@ -201,11 +201,10 @@ The project consists of a straightforward web application created with Java and 
 
 ## Author
 
-👤 **Nitesh Choudhary**
+👤 **Mohammad Ashif**
 
-* GitHub: [Nitesh choudhary](https://github.com/nitesh1710)
+* GitHub: [Mohammad Ashif]( https://github.com/ashifdeveloper)
 
-* LinkedIn: [Nitesh choudhary](https://www.linkedin.com/in/niteshchoudhary17/)
     
 ---
 
@@ -223,6 +222,6 @@ Give a ⭐️ if this project helped you!
     
 ## 📝 License
 
-Copyright © 2023 [Nitesh Choudhary](https://github.com/nitesh1710).<br />
+Copyright © 2023 [Mohammad Ashif]( https://github.com/ashifdeveloper).<br />
     
 ---
